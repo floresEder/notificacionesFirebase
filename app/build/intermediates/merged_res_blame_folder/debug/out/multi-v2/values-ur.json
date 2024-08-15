@@ -1,0 +1,111 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.oscar.notificaciones.app-mergeDebugResources-3:/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\eder\\.gradle\\caches\\transforms-3\\95a8db318b175e64f35a4fdcd90d2fad\\transformed\\play-services-basement-18.4.0\\res\\values-ur\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "147",
+                        "endOffsets": "342"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2073",
+                        "endColumns": "151",
+                        "endOffsets": "2220"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eder\\.gradle\\caches\\transforms-3\\a17e4346981388de955d4b64ac4205e3\\transformed\\foundation-release\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,86",
+                        "endOffsets": "135,222"
+                    },
+                    "to": {
+                        "startLines": "48,49",
+                        "startColumns": "4,4",
+                        "startOffsets": "4843,4928",
+                        "endColumns": "84,86",
+                        "endOffsets": "4923,5010"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eder\\.gradle\\caches\\transforms-3\\c74f0c3bb9a87f13fe207e5efe38eaee\\transformed\\play-services-base-18.5.0\\res\\values-ur\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,297,457,579,686,822,945,1053,1153,1301,1407,1575,1699,1841,2006,2065,2128",
+                        "endColumns": "103,159,121,106,135,122,107,99,147,105,167,123,141,164,58,62,83",
+                        "endOffsets": "296,456,578,685,821,944,1052,1152,1300,1406,1574,1698,1840,2005,2064,2127,2211"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1081,1189,1353,1479,1590,1730,1857,1969,2225,2377,2487,2659,2787,2933,3102,3165,3232",
+                        "endColumns": "107,163,125,110,139,126,111,103,151,109,171,127,145,168,62,66,87",
+                        "endOffsets": "1184,1348,1474,1585,1725,1852,1964,2068,2372,2482,2654,2782,2928,3097,3160,3227,3315"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eder\\.gradle\\caches\\transforms-3\\3736ab36de8a9d6636fe94c89d70a6d5\\transformed\\ui-release\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,199,282,372,469,557,638,731,819,905,988,1073,1148,1222,1295,1370,1436",
+                        "endColumns": "93,82,89,96,87,80,92,87,85,82,84,74,73,72,74,65,116",
+                        "endOffsets": "194,277,367,464,552,633,726,814,900,983,1068,1143,1217,1290,1365,1431,1548"
+                    },
+                    "to": {
+                        "startLines": "9,10,30,31,33,35,36,37,38,39,40,41,42,43,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "826,920,3320,3410,3579,3746,3827,3920,4008,4094,4177,4262,4337,4411,4585,4660,4726",
+                        "endColumns": "93,82,89,96,87,80,92,87,85,82,84,74,73,72,74,65,116",
+                        "endOffsets": "915,998,3405,3502,3662,3822,3915,4003,4089,4172,4257,4332,4406,4479,4655,4721,4838"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eder\\.gradle\\caches\\transforms-3\\4e420835356d56d722bac4868c41847d\\transformed\\core-1.12.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,357,461,564,662,776",
+                        "endColumns": "97,101,101,103,102,97,113,100",
+                        "endOffsets": "148,250,352,456,559,657,771,872"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,44",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,203,305,407,511,614,712,4484",
+                        "endColumns": "97,101,101,103,102,97,113,100",
+                        "endOffsets": "198,300,402,506,609,707,821,4580"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eder\\.gradle\\caches\\transforms-3\\0faea5f25248552e7b4f2823afc8aa21\\transformed\\material3-1.0.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,205",
+                        "endColumns": "77,71,78",
+                        "endOffsets": "128,200,279"
+                    },
+                    "to": {
+                        "startLines": "11,32,34",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1003,3507,3667",
+                        "endColumns": "77,71,78",
+                        "endOffsets": "1076,3574,3741"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773421252947",
+    "project_id": "notificacionesfirebase-19860",
+    "storage_bucket": "notificacionesfirebase-19860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773421252947:android:9df2c090eac2510b0de1a6",
+        "android_client_info": {
+          "package_name": "com.oscar.notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mVaWZMEqjY539vv7V7CKl3OqKh3g02w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
